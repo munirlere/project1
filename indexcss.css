@@ -1,10 +1,4 @@
-#head{
-    background-color: bisque;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-.p1{
-    font-family: 'Times New Roman', Times, serif;
+section{
+    background-image: url(../image/projimg.jpg);
+    background-size: cover;
 }
